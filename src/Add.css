@@ -1,0 +1,78 @@
+.ip {
+  width: 500px;
+}
+
+/* .add {
+  margin: 50px;
+}
+
+.formItem {
+    margin-left: 30px;
+}  */
+
+.add {
+    /* background-color: ghostwhite; */
+    background-image: url(./img/fash.jpg); 
+    background-size: cover;   
+    height: 595px;
+}
+
+h4 {
+    font-size: 30px;
+    /* margin-left: 200px; */
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
+
+.formItem {
+    color: white;
+    margin-right: 20px;
+}
+
+.form {
+    margin-left: 340px;
+    margin-top: 50px;
+    background-color: white;
+    padding: 20px;
+    width: 700px;
+    height: 470px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 10px black;
+}
+
+.btnSubmitFrAdd {
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 200px;
+    border-radius: 5px;
+    
+}
+
+/* .btnSubmitFrAdd:hover {
+    color: white;
+    background-color: red;
+} */
+
+.btnBackFrAdd {
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.btnShowFrAdd {
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+}
